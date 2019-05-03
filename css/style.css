@@ -1,0 +1,12 @@
+.head-site {
+    width: 100%;
+    height: 100vh;
+    background: #333333;
+    /*background-image: linear-gradient(to left bottom, #33ffcc, #00d0c6, #00a0af, #207288, #2f4858);*/
+    padding: 10px;
+}
+
+.brand {
+    width: 400px;
+    height: 75px;
+}
